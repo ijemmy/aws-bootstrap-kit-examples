@@ -5,7 +5,7 @@
     "aws-cdk:enableDiffNoFail": "true",
     "@aws-cdk/core:stackRelativeExports": "true",
     "@aws-cdk/core:newStyleStackSynthesis": true,
-    "github_alias": "awslabs",
+    "github_alias": "ijemmy",
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "chadvit/integTest3",
     "email": "chadvit@amazon.com",
